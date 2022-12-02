@@ -2,7 +2,7 @@
     display: grid;
     grid-template-rows: 25% 25% 25% 25%;
     height: 650px;
-  }
+}
 
 #my_work {
     grid-row: 1 / 1 span;
@@ -15,7 +15,7 @@
     background: #FFFFFF;
     border: 1px solid #DFE1E6;
     border-radius: 16px;
-   
+
 }
 
 
@@ -30,11 +30,11 @@
     flex: none;
     order: 0;
     flex-grow: 0;
-   
+
 }
 
 #ptext {
-   
+
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -45,7 +45,7 @@
     flex: none;
     order: 0;
     flex-grow: 0;
-  
+
 }
 
 
@@ -62,6 +62,7 @@
     order: 0;
     flex-grow: 0;
 }
+
 .tags {
     display: flex;
     flex-direction: row;
@@ -222,6 +223,7 @@
     margin-top: 114px;
     margin-right: 12px;
 }
+
 #presentation {
     font-family: Poppins, sans-serif;
     font-style: normal;
@@ -229,45 +231,45 @@
     font-size: 16px;
     line-height: 24px;
     color: #344563;
-  }
-  
-  #presentation:hover {
+}
+
+#presentation:hover {
     text-decoration: underline;
     text-decoration-color: #344563;
     text-decoration-thickness: 1px;
-  }
+}
 
-  #profile_link {
-    display:flex;
+#profile_link {
+    display: flex;
     flex-direction: column;
-  }
+}
 
-  #profile_link h2 {
+#profile_link h2 {
     font-family: Poppins, sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
     color: #7f8cff;
-  }
-  
-  #profile_link h2:hover {
+}
+
+#profile_link h2:hover {
     text-decoration: underline;
     text-decoration-color: #18a0fa;
     text-decoration-thickness: 3px;
-  }
-  
-  #profile_link ul {
+}
+
+#profile_link ul {
     display: flex;
     padding-left: 0;
-  }
-  
-  #profile_link ul li {
+}
+
+#profile_link ul li {
     list-style: none;
     margin-right: 12px;
-  }
-  
-  #my_resume {
+}
+
+#my_resume {
     text-decoration: none;
     font-family: Poppins, sans-serif;
     font-style: normal;
@@ -280,25 +282,22 @@
     text-align: center;
     padding: 10px 0;
     align-self: baseline;
-  }
-  
-  #my_resume:hover {
+}
+
+#my_resume:hover {
     text-decoration: underline;
     text-decoration-color: black;
     text-decoration-thickness: 1px;
-  }
-  
-  #my_skills {
+}
+
+#my_skills {
     display: flex;
     flex-direction: column;
     margin-top: 35px;
     margin-left: 24px;
-  }
-  
-  #languages_skills {
+}
+
+#languages_skills {
     display: flex;
     flex-direction: column;
-  }
-  
-
-  
+}
