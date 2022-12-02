@@ -11,7 +11,7 @@
   flex-direction: column;
   padding: 10px;
   height: 650px;
-  background: #ffffff;
+  background: #ff;
   border: 1px solid #dfe1e6;
   border-radius: 16px;
 }
@@ -44,7 +44,7 @@
 .ptitle {
   width: 295px;
   height: 36px;
-  font-family: "Poppins";
+  font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -76,7 +76,7 @@
   text-align: center;
   width: 295px;
   height: 76px;
-  font-family: "Poppins";
+  font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -148,7 +148,7 @@
 .title1 {
   width: 29px;
   height: 16px;
-  font-family: "Poppins";
+  font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 10px;
@@ -163,7 +163,7 @@
 .title1 {
   width: 45px;
   height: 16px;
-  font-family: "Poppins";
+  font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 10px;
@@ -178,7 +178,7 @@
 .title2 {
   width: 29px;
   height: 16px;
-  font-family: "Poppins";
+  font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 10px;
@@ -193,7 +193,7 @@
 .title3 {
   width: 89px;
   height: 16px;
-  font-family: "Poppins";
+  font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 10px;
