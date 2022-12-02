@@ -1,35 +1,3 @@
-<a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -58,8 +26,6 @@ After you're finished please remove all the comments and instructions!
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Portfolio Finish Mobile Version] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
 
 **[Portfolio Finish Mobile Version]** is a project worked on two section of portfolio namely Works and About Me.
 
@@ -91,14 +57,6 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -109,7 +67,7 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-Any Editor
+Any Editor. Example : VS Code
 
 ### Setup
 
@@ -118,60 +76,11 @@ Clone this repository to your desired folder:
 <!--
 Example commands:
 
-```sh
+  sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+  git clone git@github.com:sajibarafatsiddiqui/Portfolio_finish_mobile_version.git
 
-### Install
 
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,31 +88,8 @@ Example:
 
 ## 👥 Authors <a name="authors">Sajib Arafat Siddiqui</a>
 
-> Mention all of the collaborators of this project.
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- GitHub: [@sajibarafatsiddiqui](https://github.com/githubhandle(https://github.com/sajibarafatsiddiqui)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sajib-arafat-siddiqui-7aa8b366)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
